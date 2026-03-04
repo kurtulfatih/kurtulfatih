@@ -1,8 +1,8 @@
 # Merhaba, Ben Fatih 👋
 
-FinTech sektöründe 10 yılı aşkın süredir IT ve Bilgi Güvenliği yönetimi alanında çalışıyorum. Bugüne kadar yüksek hacimli finansal sistemlerin kesintisiz çalışması ve TCMB (6493) denetim süreçleri gibi teknik ve regülatif konularda değerli tecrübeler edinme fırsatım oldu.
+IT sektöründe 15 yılı aşkın süredir IT ve Bilgi Güvenliği yönetimi alanında çalışıyorum. Bugüne kadar yüksek hacimli finansal sistemlerin kesintisiz çalışması ve TCMB (6493) denetim süreçleri gibi teknik ve regülatif konularda değerli tecrübeler edinme fırsatım oldu.
 
-Son dönemde bu operasyonel ve güvenlik odaklı tecrübelerimi, üretken yapay zeka (GenAI) araçlarının yardımıyla yazılım geliştirme süreçlerine aktarmaya odaklanıyorum. **Vibe Coding (Yapay Zeka Destekli Geliştirme)** yaklaşımıyla; işin regülasyon, güvenlik kurgusu ve mimarisini kendi uzmanlığımla tasarlarken, kodlama tarafında yapay zeka araçlarından (Cursor, Copilot vb.) destek alıyorum. 
+Son dönemde bu operasyonel ve güvenlik odaklı tecrübelerimi, üretken yapay zeka (GenAI) araçlarının yardımıyla yazılım geliştirme süreçlerine aktarmaya odaklanıyorum. **AI Destekli Geliştirme** yaklaşımıyla; işin regülasyon, güvenlik kurgusu ve mimarisini kendi uzmanlığımla tasarlarken, kodlama tarafında yapay zeka araçlarından (Cursor, Copilot vb.) destek alıyorum. 
 
 Amacım, yıllar içinde edindiğim altyapı ve güvenlik disiplinini, modern B2B SaaS ürünlerine ve FinTech çözümlerine dönüştürmek.
 
