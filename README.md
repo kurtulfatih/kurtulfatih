@@ -13,3 +13,4 @@ Amacım, yıllar içinde edindiğim altyapı ve güvenlik disiplinini, modern B2
 - 🏢 **[OOH Inventory CRM](https://github.com/kurtulfatih/ooh-inventory-crm):** Açıkhava reklam (duvar vb.) envanterleri için geliştirdiğim CRM ve kontrat yönetim sistemi.
 
 📫 **İletişim:** [LinkedIn Profilim](https://www.linkedin.com/in/fatihkurtul/)
+
